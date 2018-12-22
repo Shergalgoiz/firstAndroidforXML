@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<records>
+   <employee>
+      <Ten>Tran Ho Bao Hoang</Ten>
+      <ViTri>Lop Truong</ViTri>
+      <luong>50000</luong>
+   </employee>
+
+   <employee>
+      <Ten>Tran Mong Thuong </Ten>
+      <ViTri>Thu Ki</ViTri>
+      <luong>60000</luong>
+   </employee>
+
+   <employee>
+      <Ten>Pham Minh Duc</Ten>
+      <ViTri>Bi Thu</ViTri>
+      <luong>70000</luong>
+   </employee>
+
+   <employee>
+      <Ten>Pham Thanh Dat</Ten>
+      <ViTri>Pho Bi Thu</ViTri>
+      <luong>80000</luong>
+   </employee>
+
+   <employee>
+      <Ten>Pham Nhat Vuong</Ten>
+      <ViTri>Thu Quy</ViTri>
+      <luong>90000</luong>
+   </employee>
+</records>
