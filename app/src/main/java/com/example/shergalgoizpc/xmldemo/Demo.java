@@ -45,8 +45,7 @@ public class Demo extends Activity implements View.OnClickListener{
         }
     }
 
-    private void filterBySalary()
-    {
+    private void filterBySalary() {
         tv1.setText("");
         Long inputSalary = Long.parseLong(txtSalary.getText().toString());
         try {
@@ -72,7 +71,7 @@ public class Demo extends Activity implements View.OnClickListener{
                     tv1.setText(tv1.getText()+"\nTen : " + getValue("Ten", element2)+"\n");
                     tv1.setText(tv1.getText()+"ViTri : " + getValue("ViTri", element2)+"\n");
                     tv1.setText(tv1.getText()+"luong : " + getValue("luong", element2)+"\n");
-                    tv1.setText(tv1.getText()+"-----------------------");
+                    tv1.setText(tv1.getText()+"---------------------------------");
                 }
             }
 

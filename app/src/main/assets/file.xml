@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <records>
+
    <employee>
       <Ten>Tran Ho Bao Hoang</Ten>
       <ViTri>Lop Truong</ViTri>
@@ -7,7 +8,7 @@
    </employee>
 
    <employee>
-      <Ten>Tran Mong Thuong </Ten>
+      <Ten>Nguyen Thi Mong Thuong </Ten>
       <ViTri>Thu Ki</ViTri>
       <luong>60000</luong>
    </employee>
@@ -19,7 +20,7 @@
    </employee>
 
    <employee>
-      <Ten>Pham Thanh Dat</Ten>
+      <Ten>Nguyen Thanh Giau</Ten>
       <ViTri>Pho Bi Thu</ViTri>
       <luong>80000</luong>
    </employee>
@@ -29,4 +30,5 @@
       <ViTri>Thu Quy</ViTri>
       <luong>90000</luong>
    </employee>
+
 </records>
